@@ -1,5 +1,5 @@
 # Add  code here!
 def Prime?(num)
-  prime?(2)
+  Prime?(2)
   return true
 end
