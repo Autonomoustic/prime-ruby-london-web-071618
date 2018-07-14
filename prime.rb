@@ -1,4 +1,4 @@
 # Add  code here!
-def Prime_number(prime)
+def Prime
   prime?(2)
 end
